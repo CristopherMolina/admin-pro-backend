@@ -1,0 +1,10 @@
+npm init -y
+npm install express --save
+npm install -g nodemon
+npm install cors
+
+//con base de datos mongodb
+npm i mongoose
+
+//instalar variables de entorno
+npm i dotenv
